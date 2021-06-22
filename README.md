@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koee88
 - 👀 I’m interested in Eating liu-sha-bao
-- 🌱 I’m currently learning React, backend(node,express),Python
+- 🌱 I’m currently learning React, backend(JSON),Python
 - 💞️ I’m not looking to collaborate at this moment
 - 📫 How to reach me hokoee88@gmail.com
 
