@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koee88
 - 👀 I’m interested in Eating liu-sha-bao
-- 🌱 I’m currently learning "Comptia A+, Flutter, Comptia Network+, Cisco CCNA"
+- 🌱 I’m currently learning "Comptia Security+, Flutter, Cisco CCNA"
 - 💞️ I’m not looking to collaborate at this moment
 - 📫 How to reach me hokoee88@gmail.com
 
